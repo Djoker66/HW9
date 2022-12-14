@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Visual Studio\HW9 home\HW9 home\bin\Debug\netcoreapp3.1\HW9 home.exe
+C:\Users\User\Desktop\Visual Studio\HW9 home\HW9 home\bin\Debug\netcoreapp3.1\HW9 home.deps.json
+C:\Users\User\Desktop\Visual Studio\HW9 home\HW9 home\bin\Debug\netcoreapp3.1\HW9 home.runtimeconfig.json
+C:\Users\User\Desktop\Visual Studio\HW9 home\HW9 home\bin\Debug\netcoreapp3.1\HW9 home.runtimeconfig.dev.json
+C:\Users\User\Desktop\Visual Studio\HW9 home\HW9 home\bin\Debug\netcoreapp3.1\HW9 home.dll
+C:\Users\User\Desktop\Visual Studio\HW9 home\HW9 home\bin\Debug\netcoreapp3.1\HW9 home.pdb
+C:\Users\User\Desktop\Visual Studio\HW9 home\HW9 home\obj\Debug\netcoreapp3.1\HW9 home.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Visual Studio\HW9 home\HW9 home\obj\Debug\netcoreapp3.1\HW9 home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Visual Studio\HW9 home\HW9 home\obj\Debug\netcoreapp3.1\HW9 home.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Visual Studio\HW9 home\HW9 home\obj\Debug\netcoreapp3.1\HW9 home.AssemblyInfo.cs
+C:\Users\User\Desktop\Visual Studio\HW9 home\HW9 home\obj\Debug\netcoreapp3.1\HW9 home.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Visual Studio\HW9 home\HW9 home\obj\Debug\netcoreapp3.1\HW9 home.dll
+C:\Users\User\Desktop\Visual Studio\HW9 home\HW9 home\obj\Debug\netcoreapp3.1\HW9 home.pdb
+C:\Users\User\Desktop\Visual Studio\HW9 home\HW9 home\obj\Debug\netcoreapp3.1\HW9 home.genruntimeconfig.cache
